@@ -1,0 +1,4 @@
+# Powerline
+if [ -f file-path ]; then
+    source file-path
+fi
